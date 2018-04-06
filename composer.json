@@ -1,5 +1,5 @@
 {
-  "name": "com.extremeidea.php/php-multirequest",
+  "name": "extremeidea/php-multirequest",
   "description": "PHP library for easy and flexible multithread requests handling by CURL.",
   "version": "2.0.6",
   "autoload": {
